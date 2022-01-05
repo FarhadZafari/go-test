@@ -1,4 +1,4 @@
-module go-test
+module github.com/farhadzafari/go-test
 
 go 1.17
 
