@@ -1,6 +1,7 @@
 package main
-import "go_test"
+
+import "go-test/test"
 
 func main() {
-	go_test.test()
+	test.Test()
 }
