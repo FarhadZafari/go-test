@@ -1,10 +1,10 @@
-package main
+package go_test
 
 import (
 	"fmt"
 	"github.com/rs/zerolog"
 )
 
-func main() {
+func test() {
 	fmt.Println(zerolog.WarnLevel.String())
 }
